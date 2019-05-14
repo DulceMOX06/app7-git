@@ -5,7 +5,7 @@ xmlns:gap= "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app7"
 version = "1.0.0">
 
-<name> Aplicaciones 7 Mostrar Apliaciones </name>
+<name> Aplicacion 7 Mostrar Apliaciones </name>
 
 <description>
 Acciones que muestra las Aplicaciones del Dispositivo
@@ -44,6 +44,6 @@ Acciones que muestra las Aplicaciones del Dispositivo
  
  <!-- Colocar icono app -->
  
- <icon src="res/android/mdpi.png"/>
+ <icon src="res/android/mdpi(1).png"/>
  
  </widget>
